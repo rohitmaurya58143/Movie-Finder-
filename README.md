@@ -6,7 +6,7 @@ I made it for learning.
 
 * How to Run
 1. Clone the project  
-2. Install pandas and scikit-learn  
+2. Install pandas,matplotlib and scikit-learn  
 3. Open notebook  
 4. Run the code  
 
